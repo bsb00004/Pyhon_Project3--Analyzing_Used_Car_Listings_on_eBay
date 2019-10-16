@@ -1,4 +1,4 @@
-# Python_Project3--Pyhon_Project3-Analyzing_Used_Car_Listings_on_eBay
+# Pyhon_Project3-Analyzing_Used_Car_Listings_on_eBay
 In this project, we worked with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
 The dataset was originally scraped and uploaded to Kaggle. Few modifications made from the original dataset that was uploaded to [Kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data):
